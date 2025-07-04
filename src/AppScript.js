@@ -1,6 +1,4 @@
 // Toggling Skill Tabs
-import mixitup from 'mixitup';
-import { Swiper } from 'swiper/react';
 
 const tabs = document.querySelectorAll('[data-target]');
 const tabContent = document.querySelectorAll('[data-content]');
@@ -120,7 +118,7 @@ function focusFunc() {
 
 function blurFunc() {
     let parent = this.parentNode;
-    if(this.value == "") {
+    if(this.value === "") {
         parent.classList.remove('focus');
     }
 }
