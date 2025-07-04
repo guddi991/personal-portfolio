@@ -58,15 +58,15 @@ function App() {
                 <div className="home-social">
                     <span className="home-social-follow">Follow Me</span>
                     <div className="home-social-links">
-                        <a href="https://www.facebook.com" target="_blank" className="home-social-link">
+                        <a href="https://www.facebook.com" rel="noreferrer" target="_blank" className="home-social-link">
                             <i className="uil uil-facebook-f"></i>
                         </a>
 
-                        <a href="https://www.instagram.com" target="_blank" className="home-social-link">
+                        <a href="https://www.instagram.com" rel="noreferrer" target="_blank" className="home-social-link">
                             <i className="uil uil-instagram"></i>
                         </a>
 
-                        <a href="https://www.x.com" target="_blank" className="home-social-link">
+                        <a href="https://www.x.com" rel="noreferrer" target="_blank" className="home-social-link">
                             <i className="uil uil-twitter"></i>
                         </a>
                     </div>
@@ -241,7 +241,7 @@ function App() {
                         <i className="uil uil-angle-down skills-arrow"></i>
                     </div>
 
-                    <div className="skills-header" data-target="#backend">
+                    <div className="skills-header" rel="noreferrer" data-target="#backend">
                         <i className="uil uil-server-network skills-icon"></i>
 
                         <div>
@@ -842,15 +842,15 @@ function App() {
                     </ul>
 
                     <div className="footer-socials">
-                        <a href="https://www.facebook.com" target="_blank" className="footer-social">
+                        <a href="https://www.facebook.com" rel="noreferrer" target="_blank" className="footer-social">
                             <i className="uil uil-facebook-f"></i>
                         </a>
 
-                        <a href="https://www.instagram.com" target="_blank" className="footer-social">
+                        <a href="https://www.instagram.com" rel="noreferrer" target="_blank" className="footer-social">
                             <i className="uil uil-instagram"></i>
                         </a>
 
-                        <a href="https://www.x.com" target="_blank" className="footer-social">
+                        <a href="https://www.x.com" rel="noreferrer" target="_blank" className="footer-social">
                             <i className="uil uil-twitter"></i>
                         </a>
                     </div>
