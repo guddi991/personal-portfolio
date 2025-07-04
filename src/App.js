@@ -10,7 +10,7 @@ function App() {
     <aside className="sidebar" id="sidebar">
         <nav className="nav">
             <div className="nav-logo">
-                <a href="#" className="nav-logo-text">M</a>
+                <a href="/" className="nav-logo-text">M</a>
             </div>
 
             <div className="nav-menu">
@@ -416,7 +416,7 @@ function App() {
                             <li>Created - <span>22 Apr 2025</span></li>
                             <li>Technologies - <span>html css</span></li>
                             <li>Role - <span>frontend</span></li>
-                            <li>View - <span><a href="#">www.domain.com</a></span></li>
+                            <li>View - <span><a href="/">www.domain.com</a></span></li>
                         </ul>
                     </div>
                 </div>
@@ -433,7 +433,7 @@ function App() {
                             <li>Created - <span>15 Apr 2025</span></li>
                             <li>Technologies - <span>html css</span></li>
                             <li>Role - <span>frontend</span></li>
-                            <li>View - <span><a href="#">www.domain.com</a></span></li>
+                            <li>View - <span><a href="/">www.domain.com</a></span></li>
                         </ul>
                     </div>
                 </div>
@@ -450,7 +450,7 @@ function App() {
                             <li>Created - <span>10 Apr 2025</span></li>
                             <li>Technologies - <span>html css</span></li>
                             <li>Role - <span>frontend</span></li>
-                            <li>View - <span><a href="#">www.domain.com</a></span></li>
+                            <li>View - <span><a href="/">www.domain.com</a></span></li>
                         </ul>
                     </div>
                 </div>
@@ -467,7 +467,7 @@ function App() {
                             <li>Created - <span>4 Apr 2025</span></li>
                             <li>Technologies - <span>html css</span></li>
                             <li>Role - <span>frontend</span></li>
-                            <li>View - <span><a href="#">www.domain.com</a></span></li>
+                            <li>View - <span><a href="/">www.domain.com</a></span></li>
                         </ul>
                     </div>
                 </div>
@@ -484,7 +484,7 @@ function App() {
                             <li>Created - <span>28 Mar 2025</span></li>
                             <li>Technologies - <span>html css</span></li>
                             <li>Role - <span>frontend</span></li>
-                            <li>View - <span><a href="#">www.domain.com</a></span></li>
+                            <li>View - <span><a href="/">www.domain.com</a></span></li>
                         </ul>
                     </div>
                 </div>
@@ -501,7 +501,7 @@ function App() {
                             <li>Created - <span>20 Mar 2025</span></li>
                             <li>Technologies - <span>html css</span></li>
                             <li>Role - <span>frontend</span></li>
-                            <li>View - <span><a href="#">www.domain.com</a></span></li>
+                            <li>View - <span><a href="/">www.domain.com</a></span></li>
                         </ul>
                     </div>
                 </div>
@@ -526,7 +526,7 @@ function App() {
                                 <li>Created - <span>15 Apr 2025</span></li>
                                 <li>Technologies - <span>html css</span></li>
                                 <li>Role - <span>frontend</span></li>
-                                <li>View - <span><a href="#">www.domain.com</a></span></li>
+                                <li>View - <span><a href="/">www.domain.com</a></span></li>
                             </ul>
                         </div>
                     </div>
